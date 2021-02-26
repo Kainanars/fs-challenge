@@ -1,0 +1,7 @@
+
+new log
+Produto: Pão Data: 25/1/2021 Hora: 22:3 - Operação de Cadastro
+new log
+Produto: Açai Data: 25/1/2021 Hora: 22:4 - Operação de Cadastro
+new log
+Produto: PS5 Data: 25/1/2021 Hora: 22:4 - Operação de Cadastro
